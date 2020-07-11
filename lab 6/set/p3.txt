@@ -1,0 +1,6 @@
+1  Jan Kowalski   10,234.20 97/01/03
+2  Tomasz Kot  9,111.00 97/02/01
+3  Kamil Sowa   12,543.33 97/01/02
+4  Anna Jantar   23,000.00 97/02/01
+5  Hanna Supron  987.50 97/01/30
+6  Zofia Kalicka  11,211.00 97/02/01
